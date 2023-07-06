@@ -39,7 +39,7 @@ class CreatePostContainer extends StatelessWidget {
             height: 10.0,
             thickness: 0,
           ),
-          Container(
+          SizedBox(
             height: 40.0,
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
